@@ -1,0 +1,11 @@
+{
+  "name": "test WebRTC",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "node-static": "^0.7.9",
+    "socket.io": "^1.7.1"
+  }
+}
